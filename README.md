@@ -16,7 +16,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Issue
 
-Open [http://localhost:3000](http://localhost:3000/with-props) with your browser to see the `props.date is Date:` is displayed instead of `props.date is Date: true`.
+Open [http://localhost:3000/with-props](http://localhost:3000/with-props) with your browser to see the `props.date is Date:` is displayed instead of `props.date is Date: true`.
 
 ## Learn More
 
